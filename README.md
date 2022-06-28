@@ -1,4 +1,4 @@
-# RegexTutorial
+# Regex Tutorial
 
 ## Description
 
